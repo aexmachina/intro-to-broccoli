@@ -1,3 +1,1 @@
-App.sayHello = function() {
-  alert('Hello world!');
-};
+App.sayHello = () => alert('Hello world!');
